@@ -18,10 +18,11 @@ Aqui estão alguns dos projetos disponíveis neste repositório:
 
 ### 🚀 1. Dashboard de Vendas no Power BI
 📌 **Descrição:** Desenvolvimento de um dashboard interativo para análise de vendas. Utilizando ETL para o tratamentos dos dados.
+usando medida DAX em nível avançado.
 🔗 [Acesse o projeto](https://app.powerbi.com/links/_lgamaSAzL?ctid=c99f1f25-d23f-49c9-99df-6d6f43f94016&pbi_source=linkShare)
 
 ### 📊 2. Análise de Montadoras 
-📌 **Descrição:** Utilização de consultas SQL para extrair insights valiosos de uma base de dados. Elevando a agilidade da informação em tempo real para o usuário
+📌 **Descrição:** Utilização de consultas SQL para extrair insights valiosos de uma base de dados. Elevando a agilidade da informação em tempo real para o usuário.
 🔗 [Acesse o projeto](https://app.powerbi.com/links/WTZLK-2xkv?ctid=c99f1f25-d23f-49c9-99df-6d6f43f94016&pbi_source=linkShare)
 
 ### 🤖 3. Projeto de Ponta a Ponta em Dados
@@ -50,7 +51,7 @@ ETL no SQL Server e modelagem no Power BI
 ---
 
 ## 📬 Contato
-Se quiser trocar uma ideia sobre análise de dados, fique à vontade para me chamar!
+Se quiser bater um papo sobre análise de dados, fique à vontade para me chamar!
 📩 [mtiago_jc@hotmail.com](#) | 🌐 [www.linkedin.com/in/moises-cunha](#) 
 
 ---
