@@ -1,4 +1,4 @@
-# 📊 Portfólio Moisés Cunha como Analista de Dados
+# 📊 Portfólio Moisés Cunha 
 
 Bem-vindo ao meu portfólio! Aqui você encontrará projetos práticos envolvendo **Power BI, SQL, Python e RPA**, demonstrando minhas habilidades em análise de dados e automação.
 
