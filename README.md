@@ -23,6 +23,20 @@ usando medida DAX em nível avançado.
 
 ### 📊 2. Análise de Montadoras 
 📌 **Descrição:** Utilização de consultas SQL para extrair insights valiosos de uma base de dados. Elevando a agilidade da informação em tempo real para o usuário.
+
+-- Consulta para obter o número total de veículos vendidos por cada montadora no último ano
+SELECT
+    montadora,
+    COUNT(veiculo_id) AS total_veiculos_vendidos
+FROM
+    vendas
+WHERE
+    data_venda BETWEEN DATEADD(year, -1, GETDATE()) AND GETDATE()
+GROUP BY
+    montadora
+ORDER BY
+    total_veiculos_vendidos DESC;
+
 🔗 [Acesse o projeto](https://app.powerbi.com/links/WTZLK-2xkv?ctid=c99f1f25-d23f-49c9-99df-6d6f43f94016&pbi_source=linkShare)
 
 ### 🤖 3. Projeto de Ponta a Ponta em Dados
