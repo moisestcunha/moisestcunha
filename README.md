@@ -54,6 +54,10 @@ Integração com IA;
 ETL no SQL Server e modelagem no Power BI
 🔗 [Acesse o projeto](https://app.powerbi.com/links/3bGgjCN7Ur?ctid=c99f1f25-d23f-49c9-99df-6d6f43f94016&pbi_source=linkShare&bookmarkGuid=611ff75b-acb3-42c5-aef3-35dadbdeca3c)
 
+### 📈 5. Análise de Cancelamento
+📌 **Descrição:** Tratamento de BD, análise da taxa de cancelamento e ações para melhorar diminuindo;
+ETL e Análise via Python
+ [Acesse o projeto](https://github.com/moisestcunha/Portif-lio/blob/main/Analise%20de%20Cancelamento)
 ---
 
 ## 🛠️ Tecnologias Utilizadas
